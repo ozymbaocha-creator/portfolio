@@ -1,0 +1,21 @@
+.footer {
+  padding: 35px 8%;
+
+  background: #0b1120;
+  border-top: 1px solid #1f2937;
+
+  color: #f9fafb;
+  text-align: center;
+}
+
+.footer p {
+  margin: 6px 0;
+
+  font-size: 14px;
+  color: #9ca3af;
+}
+
+.footer p:first-child {
+  color: #d1d5db;
+  font-weight: 500;
+}
